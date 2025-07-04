@@ -1,0 +1,13 @@
+Metadata-Version: 1.1
+Name: django-smart-export
+Version: 0.1
+Summary: Application Django pour exports dynamiques PDF, CSV, Excel, JSON et TXT avec configurations en base de données.
+Home-page: https://github.com/tonrepo/django-smart-export
+Author: Ton Nom
+Author-email: ton.email@example.com
+License: MIT
+Platform: any
+Classifier: Framework :: Django
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Description-Content-Type: text/markdown
