@@ -2,4 +2,6 @@ from django.apps import AppConfig
 
 
 class DjangoSmartExportConfig(AppConfig):
-    name = "django_smart_export"
+    """Django Smart Export application configuration."""
+
+    name: str = "django_smart_export"
